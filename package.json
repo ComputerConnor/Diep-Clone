@@ -28,7 +28,7 @@
     "url": "https://github.com/Mega-Mewthree/Diep-Clone/issues"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node node-modules/engine.io/lib/server.js"
   }
   "homepage": "https://github.com/Mega-Mewthree/Diep-Clone#readme"
 }
